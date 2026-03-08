@@ -1,4 +1,4 @@
-// BaiTapVideo1.1.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// BaiTapVideo1.1.cpp : Duyệt 2 phần tử trên 1 mảng 1 chiều
 //
 
 #include <iostream>
